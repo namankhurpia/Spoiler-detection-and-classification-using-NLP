@@ -1,7 +1,7 @@
 # NLP and Text Mining - final project
 Team name: Natural Language Processors
 
-Kindly View the report for this project (here)[https://github.com/namankhurpia/NLP-final-project/blob/main/reports/namankhu.pdf]
+Kindly View the report for this project [here](https://github.com/namankhurpia/NLP-final-project/blob/main/reports/namankhu.pdf)
 
 Steps to execude the code -
 
