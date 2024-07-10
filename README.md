@@ -26,3 +26,4 @@ https://towardsdatascience.com/question-answering-with-pretrained-transformers-u
 https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
 https://zenodo.org/record/6362726#.YsbdSTVBzrk
 
+[embed]https://github.com/namankhurpia/NLP-final-project/blob/main/reports/namankhu.pdf[/embed]
