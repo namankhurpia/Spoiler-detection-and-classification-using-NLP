@@ -25,5 +25,3 @@ https://huggingface.co/transformers/v3.3.1/custom_datasets.html#qa-squad
 https://towardsdatascience.com/question-answering-with-pretrained-transformers-using-pytorch-c3e7a44b4012
 https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
 https://zenodo.org/record/6362726#.YsbdSTVBzrk
-
-[embed]https://github.com/namankhurpia/NLP-final-project/blob/main/reports/namankhu.pdf [/embed]
