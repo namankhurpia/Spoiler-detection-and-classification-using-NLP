@@ -13,6 +13,7 @@ Steps to execude the code -
 4. Then start running for milestone 3, upload each file in colab and keep running each cell to see results.
 5. Please contact us incase of issues.
 
+Task descption - [](https://github.com/namankhurpia/Spoiler-detection-and-classification-using-NLP/blob/main/Task.png)
 
 
 # References
